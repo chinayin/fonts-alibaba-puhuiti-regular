@@ -10,7 +10,7 @@ class FontsAlibabaPuHuiTiRegular
      */
     public static function getPath(): string
     {
-        return __DIR__ . 'Alibaba-PuHuiTi-Regular.ttf';
+        return __DIR__ . '/Alibaba-PuHuiTi-Regular.ttf';
     }
 
 
